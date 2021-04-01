@@ -1,0 +1,400 @@
+Begin route Route1
+
+1: Start at Location 1
+
+2: Go east on Lone Oak (County Road 26) toward Vince / Timberwood
+Drive 0.2 miles ~ < 1 minute
+
+3: Turn left on Pilot Knob (County Road 31)
+Drive 0.8 miles ~ 1 minute
+
+4: Turn right on Pilot Knob Rd
+Drive 0.3 miles ~ < 1 minute
+
+5: Continue forward on Interstate 494
+Drive 4.2 miles ~ 4 minutes
+
+6: Continue forward on Ramp
+Drive 0.2 miles ~ < 1 minute
+
+7: Make a sharp left on 78th
+Drive 0.1 miles ~ < 1 minute
+
+8: Arrive at Location 7, on the right
+
+9: Depart Location 7
+
+10: Go back west on 78th
+Drive 0.1 miles ~ < 1 minute
+
+11: Make a sharp right on Ramp
+Drive 0.2 miles ~ < 1 minute
+
+12: Continue forward on Interstate 494
+Drive 0.4 miles ~ < 1 minute
+
+13: Bear right on Ramp
+Drive 0.2 miles ~ < 1 minute
+
+14: Continue forward on Highway 77 (State Highway 77)
+Drive 2.7 miles ~ 3 minutes
+
+15: Continue forward on Cedar (County Road 152)
+Drive 1.9 miles ~ 4 minutes
+
+16: Turn left on 41st
+Drive 0.3 miles ~ < 1 minute
+
+17: Turn right on 15th
+Drive 1.4 miles ~ 3 minutes
+
+18: Turn left on Lake (County Road 3)
+Drive 0.4 miles ~ < 1 minute
+
+19: Arrive at Location 2, on the right
+
+20: Depart Location 2
+
+21: Go back east on Lake (County Road 3)
+Drive 246 feet ~ < 1 minute
+
+22: Turn left on 10th
+Drive 0.7 miles ~ 2 minutes
+
+23: Turn right on 24th
+Drive 470 feet ~ < 1 minute
+
+24: Turn left on 11th
+Drive 0.5 miles ~ 1 minute
+
+25: Turn right on Ramp
+Drive 0.7 miles ~ 2 minutes
+
+26: Turn right on Washington (County Road 152)
+Drive 0.1 miles ~ < 1 minute
+
+27: Make a sharp left on 14th
+Drive 442 feet ~ < 1 minute
+
+28: Turn right on 2nd
+Drive 524 feet ~ < 1 minute
+
+29: Turn left on 19th
+Drive 0.2 miles ~ < 1 minute
+
+30: Continue forward on 10th
+Drive 0.8 miles ~ 2 minutes
+
+31: Continue forward on 11th
+Drive 0.2 miles ~ < 1 minute
+
+32: Turn right on Hennepin (County Road 52)
+Drive 0.4 miles ~ 1 minute
+
+33: Turn left on Stinson (County Road 27)
+Drive 0.5 miles ~ 1 minute
+
+34: Turn right on Broadway
+Drive 0.2 miles ~ < 1 minute
+
+35: Turn right on Harding
+Drive 125 feet ~ < 1 minute
+
+36: Arrive at Location 3, on the left
+
+37: Depart Location 3
+
+38: Go back north on Harding
+Drive 125 feet ~ < 1 minute
+
+39: Turn left on Broadway
+Drive 1.3 miles ~ 3 minutes
+
+40: Turn left on Central (State Highway 65)
+Drive 0.6 miles ~ 1 minute
+
+41: Turn right on 1st (County Road 52)
+Drive 0.7 miles ~ 2 minutes
+
+42: Continue forward on Hennepin (County Road 52)
+Drive 0.4 miles ~ < 1 minute
+
+43: Turn right on Washington (County Road 152)
+Drive 0.2 miles ~ < 1 minute
+
+44: Turn left on 3rd
+Drive 0.2 miles ~ < 1 minute
+
+45: Turn right on 5th
+Drive 0.4 miles ~ < 1 minute
+
+46: Arrive at Location 5, on the left
+
+47: Depart Location 5
+
+48: Go back southeast on 5th
+Drive 0.4 miles ~ < 1 minute
+
+49: Turn right on 3rd
+Drive 36 feet ~ < 1 minute
+
+50: Continue forward on Ramp
+Drive 0.4 miles ~ < 1 minute
+
+51: Continue forward on Interstate 394 (United States Highway 12)
+Drive 0.4 miles ~ < 1 minute
+
+52: Continue forward on Ramp
+Drive 0.4 miles ~ < 1 minute
+
+53: Continue forward on HOV/HOT reversible lane
+Drive 2.0 miles ~ 2 minutes
+
+54: Continue forward on Ramp
+Drive 0.5 miles ~ < 1 minute
+
+55: Turn left on Wayzata
+Drive 134 feet ~ < 1 minute
+
+56: Turn right on State Highway 100 Frontage
+Drive 0.3 miles ~ < 1 minute
+
+57: Continue forward on Quentin
+Drive 401 feet ~ < 1 minute
+
+58: Turn right on Cedar Lake
+Drive 0.4 miles ~ < 1 minute
+
+59: Bear left on Ramp
+Drive 173 feet ~ < 1 minute
+
+60: Bear left on Cedar Lake
+Drive 221 feet ~ < 1 minute
+
+61: Arrive at Location 8, on the left
+
+62: Depart Location 8
+
+63: Go back east on Cedar Lake
+Drive 343 feet ~ < 1 minute
+
+64: Continue forward on Parkdale
+Drive 0.2 miles ~ < 1 minute
+
+65: Continue forward on Ramp
+Drive 0.4 miles ~ < 1 minute
+
+66: Bear left on Highway 100 (State Highway 100 South)
+Drive 8.2 miles ~ 8 minutes
+
+67: Continue forward on Ramp
+Drive 0.6 miles ~ 2 minutes
+
+68: Continue forward on Highway 252 (State Highway 252)
+Drive 4.2 miles ~ 5 minutes
+
+69: Continue forward on Highway 610 (State Highway 610)
+Drive 1.8 miles ~ 2 minutes
+
+70: Continue forward on SB Highway 47 NW to WB Highway 610 NW
+Drive 0.5 miles ~ < 1 minute
+
+71: Continue forward on Highway 47
+Drive 1.3 miles ~ 1 minute
+
+72: Continue forward on Highway 10
+Drive 3.1 miles ~ 3 minutes
+
+73: Continue forward on Main St NW to EB Highway 10 NW
+Drive 0.5 miles ~ < 1 minute
+
+74: Continue forward on EB Main St NW To EB Highway 10 NW
+Drive 0.1 miles ~ < 1 minute
+
+75: Continue forward on Main
+Drive 0.4 miles ~ < 1 minute
+
+76: Turn right on Riverdale
+Drive 486 feet ~ < 1 minute
+
+77: Arrive at Location 9, on the right
+
+78: Depart Location 9
+
+79: Go back southwest on Riverdale
+Drive 415 feet ~ < 1 minute
+
+80: Turn right on Main
+Drive 2.1 miles ~ 4 minutes
+
+81: Turn left on Ferry (Highway 169)
+Drive 0.5 miles ~ 1 minute
+
+82: Continue forward on Highway 169 (Jefferson Highway North)
+Drive 0.2 miles ~ < 1 minute
+
+83: Turn right on Dayton (County Road 12)
+Drive 0.4 miles ~ < 1 minute
+
+84: Turn left on French Lake
+Drive 0.6 miles ~ 1 minute
+
+85: Turn right at Elm Creek / Brookside to stay on French Lake (County Road 121)
+Drive 0.4 miles ~ < 1 minute
+
+86: Continue forward on 129th (County Road 121)
+Drive 1.9 miles ~ 2 minutes
+
+87: Continue forward on Fernbrook (County Road 121)
+Drive 3.7 miles ~ 4 minutes
+
+88: Turn right on 99th
+Drive 0.6 miles ~ 1 minute
+
+89: Turn left on Maple Grove
+Drive 0.3 miles ~ < 1 minute
+
+90: Turn right on Hospital
+Drive 0.1 miles ~ < 1 minute
+
+91: Arrive at Location 6, on the left
+
+92: Depart Location 6
+
+93: Continue north on Hospital
+Drive 0.1 miles ~ < 1 minute
+
+94: Turn right on Grove
+Drive 0.3 miles ~ < 1 minute
+
+95: Continue forward on 99th
+Drive 0.6 miles ~ 1 minute
+
+96: Turn left on Fernbrook (County Road 121)
+Drive 0.4 miles ~ < 1 minute
+
+97: Make a sharp right on County Road 81
+Drive 3.3 miles ~ 4 minutes
+
+98: Continue forward on Ramp
+Drive 435 feet ~ < 1 minute
+
+99: Turn right on County Road 81
+Drive 6.6 miles ~ 9 minutes
+
+100: Turn right on Lake (County Road 9)
+Drive 250 feet ~ < 1 minute
+
+101: Continue forward on 42nd (County Road 9)
+Drive 201 feet ~ < 1 minute
+
+102: Turn left on West Broadway
+Drive 249 feet ~ < 1 minute
+
+103: Arrive at Location 4, on the right
+
+104: Depart Location 4
+
+105: Continue southeast on West Broadway
+Drive 0.1 miles ~ < 1 minute
+
+106: Turn left on 41st
+Drive 380 feet ~ < 1 minute
+
+107: Turn right on County Road 81 (Bottineau Boulevard)
+Drive 1.2 miles ~ 2 minutes
+
+108: Turn right on Abbott
+Drive 0.1 miles ~ < 1 minute
+
+109: Turn left on Oakdale
+Drive 365 feet ~ < 1 minute
+
+110: Arrive early at Location 10, on the right
+Time Window: 4/1/2021 10:00 AM - 4/1/2021 11:00 AM
+Wait Time: 12 minutes
+Service Time: < 1 minute
+
+111: Depart Location 10
+
+112: Continue southeast on Oakdale
+Drive 0.2 miles ~ < 1 minute
+
+113: Continue forward on Lowry (County Road 153)
+Drive 400 feet ~ < 1 minute
+
+114: Turn right on Washburn
+Drive 0.3 miles ~ < 1 minute
+
+115: Continue forward on West Broadway (County Road 81)
+Drive 0.5 miles ~ 1 minute
+
+116: Turn right on Penn (County Road 2)
+Drive 1.6 miles ~ 4 minutes
+
+117: Turn right on Glenwood (County Road 40)
+Drive 331 feet ~ < 1 minute
+
+118: Turn left on Queen, then turn right on Inglewood
+Drive 0.2 miles ~ < 1 minute
+
+119: Turn right on Thomas
+Drive 26 feet ~ < 1 minute
+
+120: Arrive at Location 1, on the left
+Time Window: 4/1/2021 10:00 AM - 4/1/2021 11:00 AM
+
+121: Depart Location 1
+
+122: Go back southeast on Thomas
+Drive 26 feet ~ < 1 minute
+
+123: Turn left on Inglewood
+Drive 0.2 miles ~ < 1 minute
+
+124: Turn left on Queen, then turn right on Glenwood
+Drive 1.6 miles ~ 4 minutes
+
+125: Make a sharp right on 9th
+Drive 301 feet ~ < 1 minute
+
+126: Bear left on 8th
+Drive 1.4 miles ~ 3 minutes
+
+127: Continue forward on Hiawatha (State Highway 55)
+Drive 5.1 miles ~ 8 minutes
+
+128: Continue forward on Highway 55 (State Highway 55)
+Drive 0.4 miles ~ < 1 minute
+
+129: Turn left on Ramp
+Drive 0.3 miles ~ < 1 minute
+
+130: Bear left on Highway 55 (State Highway 55)
+Drive 0.2 miles ~ < 1 minute
+
+131: Continue forward on Ramp
+Drive 0.4 miles ~ < 1 minute
+
+132: Continue forward on Highway 55 (State Highway 55)
+Drive 1.9 miles ~ 2 minutes
+
+133: Turn right on Highway 13
+Drive 0.2 miles ~ < 1 minute
+
+134: Turn left on Pilot Knob (County Road 31)
+Drive 1.7 miles ~ 3 minutes
+
+135: Turn right on Lone Oak (County Road 26)
+Drive 0.2 miles ~ < 1 minute
+
+136: Finish at Location 1, on the left
+
+Total time: 2 hours 30 minutes
+Total distance: 89 miles
+Total wait time: 12 minutes
+Start time: 4/1/2021 8:00 AM
+Finish time: 4/1/2021 10:30 AM
+
+End of route Route1
+
